@@ -1,0 +1,76 @@
+{
+  "moduleTitle": "Azure devops",
+  "locationPath": "azure-devops",
+  "products": [
+    "Azure"
+  ],
+  "targetAudience": "Level:[Level]\nRole:[Role]\nSummary:[One sentence module summary]\nLearning Objective:[Learning Objective]\nPrerequisites:[Prerequisites]",
+  "level": "beginner",
+  "roles": [
+    "Administrator"
+  ],
+  "unitArray": [
+    {
+      "unitTitle": "Introduction",
+      "unitTemplate": "Introduction",
+      "order": 1,
+      "uid": "0c247b92-f2b8-4eb1-b04a-77488f3136c6",
+      "unitPath": "includes/1-introduction.md",
+      "hasConceptualDocList": false,
+      "hasConceptualLearingObjective": false,
+      "hasExerciseDocList": false,
+      "hasExerciseGoals": false,
+      "hasExerciseTasks": false,
+      "hasDraft": false,
+      "isGenerating": false,
+      "unitFileName": "1-introduction.md"
+    },
+    {
+      "unitTitle": "how to create a repo",
+      "unitTemplate": "Conceptual",
+      "order": 2,
+      "uid": "8b705de5-3070-470f-b833-7b200fde0116",
+      "unitPath": "includes/2-how-create-repo.md",
+      "hasConceptualDocList": true,
+      "hasConceptualLearingObjective": true,
+      "hasExerciseDocList": false,
+      "hasExerciseGoals": false,
+      "hasExerciseTasks": false,
+      "hasDraft": true,
+      "isGenerating": false,
+      "unitFileName": "2-how-create-repo.md",
+      "reqStepDataSuccessful": true,
+      "step1ContentHash": "735108d2355b866602481dd35523068e60e6e2a1ac61f754e8280649ac052271"
+    },
+    {
+      "unitTitle": "Knowledge check",
+      "unitTemplate": "Knowledge Check",
+      "order": 3,
+      "uid": "f2e66f25-7cc6-4141-afb8-248e86bf0649",
+      "unitPath": "includes/3-knowledge-check.md",
+      "hasConceptualDocList": false,
+      "hasConceptualLearingObjective": false,
+      "hasExerciseDocList": false,
+      "hasExerciseGoals": false,
+      "hasExerciseTasks": false,
+      "hasDraft": true,
+      "isGenerating": false,
+      "unitFileName": "3-knowledge-check.md"
+    },
+    {
+      "unitTitle": "Summary",
+      "unitTemplate": "Summary",
+      "order": 4,
+      "uid": "f467c185-022e-45c4-b84b-7139e755db3f",
+      "unitPath": "includes/4-summary.md",
+      "hasConceptualDocList": false,
+      "hasConceptualLearingObjective": false,
+      "hasExerciseDocList": false,
+      "hasExerciseGoals": false,
+      "hasExerciseTasks": false,
+      "hasDraft": false,
+      "isGenerating": false,
+      "unitFileName": "4-summary.md"
+    }
+  ]
+}

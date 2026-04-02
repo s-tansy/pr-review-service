@@ -1,0 +1,139 @@
+{
+  "conceptualDocList": [
+    {
+      "unitID": "4f7fd430-518f-4013-8afa-6668173a333a",
+      "unitTitle": "Introduction to datastores",
+      "documents": [],
+      "unitTemplate": "Conceptual"
+    },
+    {
+      "unitID": "817444ed-0361-4a41-9cf0-5380232c593f",
+      "unitTitle": "Use datastores",
+      "documents": [],
+      "unitTemplate": "Conceptual"
+    },
+    {
+      "unitID": "32f53cfa-305b-4298-ae92-2bc362c7709e",
+      "unitTitle": "Introduction to datasets",
+      "documents": [],
+      "unitTemplate": "Conceptual"
+    },
+    {
+      "unitID": "cd84a277-0aad-44c1-a193-41f600143716",
+      "unitTitle": "Use datasets",
+      "documents": [],
+      "unitTemplate": "Conceptual"
+    }
+  ],
+  "conceptualObjectLear": [
+    {
+      "unitID": "4f7fd430-518f-4013-8afa-6668173a333a",
+      "unitTitle": "Introduction to datastores",
+      "learningObjectives": [
+        {
+          "title": "Types of Datastore",
+          "description": "",
+          "isUserAdd": true
+        },
+        {
+          "title": "Built-in Datastores",
+          "description": "",
+          "isUserAdd": true
+        }
+      ]
+    },
+    {
+      "unitID": "817444ed-0361-4a41-9cf0-5380232c593f",
+      "unitTitle": "Use datastores",
+      "learningObjectives": [
+        {
+          "title": "Managing datastores",
+          "description": "",
+          "isUserAdd": true
+        },
+        {
+          "title": "Considerations for datastores",
+          "description": "",
+          "isUserAdd": true
+        }
+      ]
+    },
+    {
+      "unitID": "32f53cfa-305b-4298-ae92-2bc362c7709e",
+      "unitTitle": "Introduction to datasets",
+      "learningObjectives": [
+        {
+          "title": "Types of dataset",
+          "description": "",
+          "isUserAdd": true
+        },
+        {
+          "title": "Creating and registering datasets",
+          "description": "",
+          "isUserAdd": true
+        },
+        {
+          "title": "Retrieving a registered dataset",
+          "description": "",
+          "isUserAdd": true
+        },
+        {
+          "title": "Dataset versioning",
+          "description": "",
+          "isUserAdd": true
+        },
+        {
+          "title": "Retrieving a specific dataset version",
+          "description": "",
+          "isUserAdd": true
+        }
+      ]
+    },
+    {
+      "unitID": "cd84a277-0aad-44c1-a193-41f600143716",
+      "unitTitle": "Use datasets",
+      "learningObjectives": [
+        {
+          "title": "Work with tabular datasets",
+          "description": "",
+          "isUserAdd": true
+        },
+        {
+          "title": "Work with file datasets",
+          "description": "",
+          "isUserAdd": true
+        }
+      ]
+    }
+  ],
+  "exerciseDocList": [
+    {
+      "unitID": "279afd96-57db-4bbd-8c0e-ed1954c18762",
+      "unitTitle": "Exercise - Work with data",
+      "documents": [],
+      "unitTemplate": "Exercise"
+    }
+  ],
+  "exerciseGoals": [
+    {
+      "unitID": "279afd96-57db-4bbd-8c0e-ed1954c18762",
+      "unitTitle": "Exercise - Work with data",
+      "goals": "",
+      "description": []
+    }
+  ],
+  "exerciseTasks": [
+    {
+      "unitID": "279afd96-57db-4bbd-8c0e-ed1954c18762",
+      "unitTitle": "Exercise - Work with data",
+      "learningObjective": "",
+      "labScenario": "",
+      "highLevelTasks": [
+        {
+          "content": "Instructions",
+          "isUserAdd": true
+        }
+      ]
+    }
+  ]
+}
