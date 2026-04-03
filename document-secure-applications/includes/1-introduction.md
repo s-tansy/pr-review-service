@@ -15,3 +15,4 @@ After completing this module, you’ll be able to:
 - Implement GitHub Advanced Security features like secret scanning and dependency review to identify and mitigate vulnerabilities.
 - Create and manage diagrams using Markdown-supported tools like Mermaid to visualize workflows and enhance collaboration.
 - Establish a comprehensive security framework for code repositories and development workflows, including branch protection, dependency management, and Zero Trust principles.
+- 
