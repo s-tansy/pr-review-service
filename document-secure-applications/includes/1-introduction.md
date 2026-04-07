@@ -17,3 +17,5 @@ After completing this module, you’ll be able to:
 - Establish a comprehensive security framework for code repositories and development workflows, including branch protection, dependency management, and Zero Trust principles.
 
 It is important to note that the reviewer must facilitate the configuration review process prior to the final check.
+
+It is easier to review the result when reviewers do not compare each changed line manually.
