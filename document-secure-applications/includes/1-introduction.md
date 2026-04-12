@@ -1,5 +1,9 @@
 GitHub Copilot, GitHub Advanced Security, and related tools empower developers, architects, and engineers to streamline workflows, enhance documentation, and secure code repositories effectively.
 
+it'll
+
+we'll
+
 Imagine you're part of a software development team working on a complex project with multiple dependencies and contributors. The team struggles to maintain clear architectural documentation, secure sensitive information in code repositories, and ensure collaboration across diverse roles. For instance, during a critical sprint, an exposed API key leads to a security breach, while outdated dependencies cause compatibility issues. Additionally, the lack of visual diagrams makes it hard for team members to understand workflows, slowing down progress. By leveraging GitHub Copilot for generating structured architectural overviews and diagrams, implementing secure markdown-based documentation practices, and utilizing GitHub Advanced Security features like secret scanning and dependency review, your team can overcome these challenges. These tools not only improve efficiency but also establish a robust security framework, ensuring smooth collaboration and project success.
 
 In this module, you will learn:
